@@ -42,3 +42,7 @@ Minetest's sound system requires Ogg Vorbis format for audio files. Make sure al
 ## Credits
 
 Created by ronrob-lu
+
+## 🎬 Note for YouTubers / Streamers
+You are absolutely welcome to showcase this mod, play it on stream, or feature it in your videos! 
+The music is AI-generated (Flow Music) and safe to use. To be 100% safe from automated systems, we recommend adding the credits from this page into your video description. Have fun!
